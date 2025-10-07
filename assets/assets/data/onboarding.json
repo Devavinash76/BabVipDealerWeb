@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Lorem Ipsum is simply dummy text",
+    "subtitle": "BABVIP PRESENTS",
+    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "assets/img/onboarding.webp"
+  },
+  {
+    "title": "We Create Modern Solutions",
+    "subtitle": "BABVIP CREATION",
+    "desc": "We build apps, websites, and digital products with cutting-edge technology.",
+    "image": "assets/img/onboarding2.webp"
+  },
+  {
+    "title": "Join Us Today",
+    "subtitle": "BABVIP COMMUNITY",
+    "desc": "Be part of our growing community and start your journey with us today.",
+    "image": "assets/img/onboarding3.webp"
+  }
+]
