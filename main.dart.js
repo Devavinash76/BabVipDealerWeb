@@ -43623,7 +43623,7 @@ r=A.p(a,14)
 m=A.alS(s,A.bN(q,q,A.ac(B.c.az(178.5),B.i.t()>>>16&255,B.i.t()>>>8&255,B.i.t()&255),q,q,q,q,q,p,q,q,r,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),q,o,n,q,q,q,q,A.bN(q,q,B.A,q,q,q,q,q,p,q,q,A.p(a,14),q,q,B.a4,q,q,!0,q,q,q,q,q,q,q,q),q,q,m,q,q)
 n=A.p(a,24)
 o=A.p(a,8)
-return new A.B8(B.PE,"BabVIP Onboarding",A.wl(B.ae,new A.pb(B.ae,B.A,B.f,q,q,q,q,q,q,B.A,B.f,q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.ED,B.f,q,q,B.f,B.i,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.f,B.i),new A.uh(A.zN(q,q,B.A,q,q,q,q,q,q,B.f,q,q,new A.M(n,o,n,o),q,new A.c_(A.aU(A.p(a,12)),B.p),q,q,q,A.bN(q,q,q,q,q,q,q,q,p,q,q,A.p(a,16),q,q,B.a4,q,q,!0,q,q,q,q,q,q,q,q),q)),p,B.f,m,!0),!1,q)}}
+return new A.B8(B.PE,"BabVIP Dealer",A.wl(B.ae,new A.pb(B.ae,B.A,B.f,q,q,q,q,q,q,B.A,B.f,q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.ED,B.f,q,q,B.f,B.i,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,B.f,B.i),new A.uh(A.zN(q,q,B.A,q,q,q,q,q,q,B.f,q,q,new A.M(n,o,n,o),q,new A.c_(A.aU(A.p(a,12)),B.p),q,q,q,A.bN(q,q,q,q,q,q,q,q,p,q,q,A.p(a,16),q,q,B.a4,q,q,!0,q,q,q,q,q,q,q,q),q)),p,B.f,m,!0),!1,q)}}
 A.zk.prototype={
 ac(){return new A.zl(null,null)},
 anG(a){return this.x.$1(a)}}
